@@ -9,8 +9,8 @@ Orginally, these weights stem this [Gist](https://gist.github.com/baraldilorenzo
 Weights are backend-specific.
 You can either use Theano or Tensorflow.
 Be sure to download the correct file:
-- Theano: [vgg16_weights_theano]()
-- Tensorflow: [vgg16_weights_tensorflow]()
+- Theano: [vgg16_weights_theano](https://drive.google.com/file/d/0B27U_0CS_jHMeGNVSWRDc2liRGM/view?usp=sharing)
+- Tensorflow: [vgg16_weights_tensorflow](https://drive.google.com/file/d/0B27U_0CS_jHMZTUyc2UzbG5LLU0/view?usp=sharing)
 
 ## 2. Load your image files
 
