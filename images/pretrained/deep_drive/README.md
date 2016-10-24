@@ -1,4 +1,4 @@
-# VGG 16
+# DeepDrive
 
 Deepdrive is a pre-trained CNN based on Alexnet and created by [Craig Quiter](https://github.com/crizCraig) from [deepdrive.io](http://deepdrive.io/).
 
