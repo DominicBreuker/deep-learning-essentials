@@ -11,8 +11,8 @@ You can find the original weights [here](https://gist.github.com/aiworld/66e69c1
 Weights are backend-specific.
 You can either use Theano or Tensorflow.
 Be sure to download the correct file:
-- Theano: [deep_drive_weights_theano](https://coming-soon.com)
-- Tensorflow: [deep_drive_weights_tensorflow](https://coming-soon.com)
+- Theano: [deep_drive_weights_theano](https://drive.google.com/file/d/0B27U_0CS_jHMeUwwdjNGX3pmQXM/view?usp=sharing)
+- Tensorflow: [deep_drive_weights_tensorflow](https://drive.google.com/file/d/0B27U_0CS_jHMa1lfdVkxSWphOVE/view?usp=sharing)
 
 ## 2. Load your image files
 

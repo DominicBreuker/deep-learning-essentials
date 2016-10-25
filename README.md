@@ -25,6 +25,7 @@ Comes with code to load images with proper preprocessing.
 
 #### DeepDrive
 
+Port of [deepdrive.io](http://deepdrive.io/).
 Keras model for a CNN able to keep a car in  the lane.
 Pretrained weights available.
 To get started, go to root path of repo and do:
@@ -34,3 +35,6 @@ export PYTHONPATH=$(pwd)
 KERAS_BACKEND=theano python images/pretrained/deep_drive/model_test.py
 KERAS_BACKEND=tensorflow python images/pretrained/deep_drive/model_test.py
 ```
+
+This should successfully predict 6 values each for 6 test images.
+If things work, you should see losses around 0.01.
