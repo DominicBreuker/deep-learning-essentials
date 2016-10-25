@@ -5,6 +5,8 @@ import theano.tensor as T
 import tensorflow as tf
 from keras.engine import Model, Input
 
+tf.python.control_flow_ops = tf # hotfix for Keras issue - remove in future
+
 
 class LRN2D(Layer):
     def __init__(self, alpha=1e-4, k=2, beta=0.75, n=5, **kwargs):

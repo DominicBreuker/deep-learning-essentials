@@ -27,3 +27,10 @@ Comes with code to load images with proper preprocessing.
 
 Keras model for a CNN able to keep a car in  the lane.
 Pretrained weights available.
+To get started, go to root path of repo and do:
+
+```
+export PYTHONPATH=$(pwd)
+KERAS_BACKEND=theano python images/pretrained/deep_drive/model_test.py
+KERAS_BACKEND=tensorflow python images/pretrained/deep_drive/model_test.py
+```
