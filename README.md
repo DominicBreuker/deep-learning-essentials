@@ -12,6 +12,11 @@ This is work in progress and currently extremely unorganized.
 Use at your own risk.
 You are for sure encountering lots of obstacles in getting started ;)
 
+## Compatibility
+
+Currently, you must use Python 3 to run this stuff.
+Do `python --version` and make sure it says something like 3.x.x
+
 ## Overview of content
 
 ### images
